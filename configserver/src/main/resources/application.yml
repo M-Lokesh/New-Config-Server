@@ -11,7 +11,7 @@ spring:
           # search-locations: "classpath:/config"
           # search-locations: "file:///Users//lokesh//Documents//config"
         git:
-          uri: "https://github.com/M-Lokesh/lokesh-config.git"
+          uri: "https://github.com/M-Lokesh/eazybytes-config.git"
           default-label: main
           timeout: 5
           clone-on-start: true
